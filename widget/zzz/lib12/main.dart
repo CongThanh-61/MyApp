@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
+///bybybybybyby
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
       home:Scaffold(
         body: Center(
           child: Container(
-            padding: const EdgeInsets.all(24),
+            
             decoration: BoxDecoration(
               color:Colors.amberAccent[100],
               borderRadius: BorderRadius.circular(16),
